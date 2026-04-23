@@ -1,5 +1,5 @@
 ---
-name: BlogPoster Article Generation & Deployment
+name: BlogPoster Article Generation and Deployment
 description: Generate unique SEO-optimized articles for 3 Swedish websites and deploy to Netlify
 author: BlogPoster Team
 version: 1.0.0

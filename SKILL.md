@@ -1,3 +1,17 @@
+---
+name: BlogPoster Article Generation & Deployment
+description: Generate unique SEO-optimized articles for 3 Swedish websites and deploy to Netlify
+author: BlogPoster Team
+version: 1.0.0
+applies_to:
+  - "**/*.md"
+keywords:
+  - article-generation
+  - netlify-deployment
+  - seo-optimization
+  - blog-automation
+---
+
 # BlogPoster: Article Generation & Netlify Deployment Skill
 
 ## Purpose
